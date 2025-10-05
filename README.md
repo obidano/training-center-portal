@@ -96,7 +96,10 @@ This website is designed to be hosted on GitHub Pages. To deploy:
    - Choose "main" branch and "/ (root)" folder
    - Click "Save"
 
-3. **Access your site**: Your website will be available at `https://yourusername.github.io/training_center_static`
+3. **Access your site**: Your website will be available at `https://obidano.github.io/training-center-portal`
+
+### Live Demo
+The website is currently deployed and accessible at: **[https://obidano.github.io/training-center-portal/](https://obidano.github.io/training-center-portal/)**
 
 ## Customization
 
